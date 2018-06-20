@@ -27,6 +27,10 @@ p {
   font-size: 14px;
 }
 
+.background{
+  background-image: url("../images/the-flatiron-building.png");
+}
+
 .title{
   font-size: 23px;
   font-weight: bold;
