@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+a,h1{
+  color: white;
+}
+
+h1,h2{
+    font-weight: bold;
+}
+
+a{
+  font-size: 18px;
+}
+
+h1{
+  font-size: 70px;
+}
+
+h2{
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.title{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.white{
+  color: white;
+}
